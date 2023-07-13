@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+<meta charset "UTF-8">
+<title>RESUME</title>
+</head>
+<body>
+<h1>Devi Gopal.T</h2>
+<img src="
+<h1>Summary</h1>
+ <p>I am a hard working and dedicated individual </p>
+ <hr/>
+<h1>Education</h1>
+   <ul>
+     <li>B Sc Electronics with Computer Hardware</li>
+     <li>M Sc Electronics</li>
+     <li> M Tech Computer science and engineering</li>
+   </ul>
+<hr/>
+<h1>Work experience</h1>
+  <ul>
+    <li>Lecturer
